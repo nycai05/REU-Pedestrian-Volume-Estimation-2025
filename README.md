@@ -1,3 +1,4 @@
-code for pedestrian volume estimation project,
-the final code containing randomforest, catboost evaluations and comparisons with baseline negative binomial regression is in models.ipynb, 
-prelim was for some preliminary results, explore is some data exploration
+The final code containing randomforest, catboost evaluations and comparisons with baseline negative binomial regression is included in models.ipynb, 
+
+Prelim.ipynb was for some preliminary results (e.g. implementing ElasticNet, SVM, ANN), explore is some data exploration and manipulation.
+
